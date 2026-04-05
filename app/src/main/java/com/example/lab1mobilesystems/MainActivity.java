@@ -3,7 +3,9 @@ package com.example.lab1mobilesystems;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
-
+// Name: Maksatbek Adylov
+// Student ID: 56422
+// Set-2, Task 1,2
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "LAB1";
